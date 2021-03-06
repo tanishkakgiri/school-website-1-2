@@ -1,0 +1,13 @@
+body {
+    text-align: center;
+    background: linear-gradient(#8FBC8F 20%, #2F4F4F 80%);
+}
+
+H1 {
+    text-align: left;
+}
+
+stschool {
+    height: 900px;
+    width: 1000px;
+}
